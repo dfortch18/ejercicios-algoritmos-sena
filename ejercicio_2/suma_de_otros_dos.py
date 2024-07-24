@@ -25,8 +25,11 @@ def main():
             suma = n3
             sumando1 = n1
             sumando2 = n2
-            
-        print(f'El número {suma} es la suma de {sumando1} + {sumando2}')
+        
+        if suma is not None:
+            print(f'El número {suma} es la suma de {sumando1} + {sumando2}')
+        else:
+            print('Ningún número es la suma de otros dos')
     except ValueError:
         print('Número invalido')
 
