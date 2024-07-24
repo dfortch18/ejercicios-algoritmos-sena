@@ -18,7 +18,7 @@ Diseñe un algoritmo que lea tres números enteros y decida si uno de ellos coin
 ### Diagrama de flujo
 
 <p align="center">
-    <img src="./ejercicio_2_diagrama_flujo.png" alt="Diagrama de flujo ejercicio no.2" />
+    <img src="./diagrama_flujo.png" alt="Diagrama de flujo ejercicio no.2" />
 </p>
 
 ### Pseudo código
@@ -58,4 +58,4 @@ FIN
 
 ### Código real
 
-- **Python:** [ejercicio_2.py](./ejercicio_2.py)
+- **Python:** [suma_de_otros_dos.py](./suma_de_otros_dos.py)

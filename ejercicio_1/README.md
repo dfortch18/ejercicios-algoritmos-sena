@@ -15,7 +15,7 @@ Diseñe un algoritmo que lea tres números y, si el primero es positivo calcule 
 ### Diagrama de flujo
 
 <p align="center">
-  <img src="./ejercicio_1_diagrama_flujo.png" alt="Diagrama de flujo ejercicio no.1">
+  <img src="./diagrama_flujo.png" alt="Diagrama de flujo ejercicio no.1">
 </p>
 
 ### Pseudo codigo
@@ -43,4 +43,4 @@ FIN
 
 ### Codigo real
 
-- **Python:** [ejercicio_1.py](./ejercicio_1.py)
+- **Python:** [suma_o_producto.py](./suma_o_producto.py)
