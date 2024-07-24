@@ -13,3 +13,4 @@ Este repositorio contiene soluciones a diversos ejercicios de algoritmos. Cada e
 ## Índice
 
 1. [Ejercicio No. 1: Suma o Producto](./ejercicio_1/)
+2. [Ejercicio No. 2: Suma de otros Dos](./ejercicio_2/)
