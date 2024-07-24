@@ -4,42 +4,13 @@ Diseñe un algoritmo que lea tres números y, si el primero es positivo calcule 
 
 ## Solución
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th>Datos</th>
-      <th>Descripción</th>
-      <th>Identificadores</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Entrada</strong></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Número 1</td>
-      <td>Primer número</td>
-      <td>n1</td>
-    </tr>
-    <tr>
-      <td>Número 2</td>
-      <td>Segundo número</td>
-      <td>n2</td>
-    </tr>
-    <tr>
-      <td><strong>Salida</strong></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Resultado</td>
-      <td>Resultado final</td>
-      <td>n3</td>
-    </tr>
-  </tbody>
-</table>
+| **Datos**   | **Descripción** | **Identificadores** |
+|-------------|-----------------|---------------------|
+| **Entrada** |                 |                     |
+| Número 1    | Primer número   | n1                  |
+| Número 2    | Segundo número  | n2                  |
+| **Salida**  |                 |                     |
+| Resultado   | Resultado final | n3                  |
 
 ### Diagrama de flujo
 
