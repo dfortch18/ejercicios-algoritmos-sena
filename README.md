@@ -1,5 +1,8 @@
 # Ejercicios Algoritmos SENA
 
+[![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://commonmark.org)
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+
 Conjunto de ejercicios de solución de algoritmos desarrollados durante el curso tecnico **Programación de Aplicaciones para Dispositivos Móviles** del [**Servicio Nacional de Aprendizaje**](https://es.wikipedia.org/wiki/Servicio_Nacional_de_Aprendizaje) (SENA).
 
 ## Descripción
