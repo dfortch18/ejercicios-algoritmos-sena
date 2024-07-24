@@ -1,5 +1,5 @@
 def main():
-    print("Digite acontinuación 3 números:")
+    print("Digite a continuación 3 números:")
     
     n1 = None
     n2 = None
