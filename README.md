@@ -20,3 +20,4 @@ Este repositorio contiene soluciones a diversos ejercicios de algoritmos. Cada e
 2. [Ejercicio No. 2: Suma de otros Dos](./ejercicio_2/)
 3. [Ejercicio No. 3: Multiplos de Tres](./ejercicio_3/)
 4. [Ejercicio No. 4: Potencias de Dos](./ejercicio_4/)
+5. [Ejercicio No. 5: Suma de Números Pares entre 50 y 200](./ejercicio_5/)
