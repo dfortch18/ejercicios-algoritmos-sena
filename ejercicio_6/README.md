@@ -1,4 +1,4 @@
-# Grados Celsius a Fahrenheit
+# Ejercicio No. 6: Grados Celsius a Fahrenheit
 
 Diseñe un algoritmo que lea la temperatura en grados Celsius (C°) y la escriba en Fahrenheit (F).
 
